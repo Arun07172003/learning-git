@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Arun, good morningtouch textfour.txt
+=======
+Hello Arun, good morning
+>>>>>>> a8fe3fe (update)
